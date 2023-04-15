@@ -6,6 +6,6 @@ Example data science portfolio
 .Implementation
 .Results
 
-# [Project 1: Weather Data Analysis of Bangladesh](https://maigoscode.github.io/Muhammad_Portfolio/)
+# [Project 1: Weather Data Analysis of Bangladesh](https://github.com/Maigoscode/data_science_projects)
 
 
