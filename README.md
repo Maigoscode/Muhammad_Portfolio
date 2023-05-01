@@ -15,5 +15,5 @@ TECHNISCHE FÄHIGKEITEN:
 
 # [Project 2: Flask REST API - Build a Flask REST API with Python ](https://github.com/Maigoscode/Flask-Rest-Api-projects1)
 
-#[Project 3: My Python Projects](https://github.com/Maigoscode/python-projects)
+# [Project 3: My Python Projects](https://github.com/Maigoscode/python-projects)
 
